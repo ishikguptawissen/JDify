@@ -1,0 +1,8 @@
+{
+  "name": "JDify",
+  "description": "AI-powered Job Description Generator — From messy hiring notes to polished Job Descriptions instantly.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}

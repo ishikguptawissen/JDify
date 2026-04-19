@@ -19,7 +19,7 @@ import fs from "fs";
 import multer from "multer";
 import cors from "cors";
 import mammoth from "mammoth";
-import { parsePdf } from "./src/services/pdfParser";
+import { parsePdf } from "./src/services/pdfParser.ts";
 
 const upload = multer({ storage: multer.memoryStorage() });
 

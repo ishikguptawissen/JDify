@@ -604,9 +604,6 @@ ${result.search_query_boolean}
               <h1 className="text-2xl font-extrabold tracking-tight dark:text-text-primary">
                 JD<span className="text-accent">ify</span>
               </h1>
-              <span className="hidden sm:inline-block text-[10px] font-bold text-gray-400 dark:text-text-secondary bg-gray-100 dark:bg-bg-input px-2 py-0.5 rounded-full border dark:border-border-theme">
-                v1.0
-              </span>
             </div>
             <p className="text-[12px] text-gray-500 dark:text-text-secondary mt-0.5">From messy hiring notes to polished Job Descriptions.</p>
           </div>
